@@ -3,8 +3,8 @@
 namespace Orange7354\PracticePackage\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Orange7354\PracticePackage\PracticePackageServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {

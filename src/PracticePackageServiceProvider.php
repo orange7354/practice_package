@@ -2,9 +2,9 @@
 
 namespace Orange7354\PracticePackage;
 
+use Orange7354\PracticePackage\Commands\PracticePackageCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Orange7354\PracticePackage\Commands\PracticePackageCommand;
 
 class PracticePackageServiceProvider extends PackageServiceProvider
 {
